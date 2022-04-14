@@ -35,6 +35,22 @@ Follow their instructions to create a dataset of 10.000 heads.
 
 To transform the created `.obj` files to `.ply` files, use the command `ctmconv infile outfile`, with infile and outfile being the `.obj` and `.ply` file, respectively.
 
+For training the IDR, the [H3DS dataset](https://github.com/CrisalixSA/h3ds) was used. Follow their steps to generate the dataset.
+
+### IGR
+
+The IGR model can be trained using the files in the [IGR repository](https://github.com/amosgropp/IGR). We used `igr/code/shapespace/train.py` as main training file. However, to make sure it trains on the correct data, some changes need to be made:
+
+- In `igr/code/datsets/`, a new Dataset file should be created that specifies how to load the head meshes from the FLAME dataset.
+- In `igr/code/shapespace/`, a new `.conf` file should be created to specify which dataset should be used and to specify other settings.
+- `igr/code/shapespace/train.py` should be modified to use the correct `.conf` file and training settings like the amount of epochs.
+
+### IDR
+
+
+
+
+
 
 
 
