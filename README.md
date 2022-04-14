@@ -45,7 +45,9 @@ To transform the created `.obj` files to `.ply` files, use the command `ctmconv 
 
 For training the IDR, the [H3DS dataset](https://github.com/CrisalixSA/h3ds) was used. Follow their steps to generate the dataset.
 
-### IGR
+### Training
+
+#### IGR
 
 The IGR model can be trained using the files in the [IGR repository](https://github.com/amosgropp/IGR). We used `igr/code/shapespace/train.py` as main training file. However, to make sure it trains on the correct data, some changes need to be made:
 
@@ -53,11 +55,36 @@ The IGR model can be trained using the files in the [IGR repository](https://git
 - In `igr/code/shapespace/`, a new `.conf` file should be created to specify which dataset should be used and to specify other settings.
 - `igr/code/shapespace/train.py` should be modified to use the correct `.conf` file and training settings like the amount of epochs.
 
-### IDR
+#### IDR
 
-To run IDR, first activate the 
+To train IDR, first activate the conda environment by running
+
+```
+conda activate idr
+```
+
+Then change the working directory to H3D-Net/code and run the dataset generator to create the stripped down H3DS dataset
+
+```
+cd H3D-Net/code
+python generate_h3ds4idr.py
+```
+
+This will produce the h3ds dataset at data/h3ds with each folder containing the exact number of views for each head in line with the dataset used in H3D-Net.
+
+To run the training, again from H3D-Net/code, run:
+
+```
+python idr_h3ds_train_runner.py
+```
+
+which will run the idr training for each view (5 views) and head (10 heads), in total 50 different trainings.
+
+The viewable ply models are then stored in the exps folder with the timestamp as name in the plots directory.
 
 ### H3D-Net
+
+Due to time constraints, the training for the H3D-Net was not completed in time.
 
 
 
