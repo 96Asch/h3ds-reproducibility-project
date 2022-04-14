@@ -1,0 +1,252 @@
+{
+  "0": {
+    "scene": "1b2a8613401e42a8",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan0"
+  },
+  "1": {
+    "scene": "1b2a8613401e42a8",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan1"
+  },
+  "2": {
+    "scene": "1b2a8613401e42a8",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan2"
+  },
+  "3": {
+    "scene": "1b2a8613401e42a8",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan3"
+  },
+  "4": {
+    "scene": "1b2a8613401e42a8",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan4"
+  },
+  "5": {
+    "scene": "3b5a2eb92a501d54",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan5"
+  },
+  "6": {
+    "scene": "3b5a2eb92a501d54",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan6"
+  },
+  "7": {
+    "scene": "3b5a2eb92a501d54",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan7"
+  },
+  "8": {
+    "scene": "3b5a2eb92a501d54",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan8"
+  },
+  "9": {
+    "scene": "3b5a2eb92a501d54",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan9"
+  },
+  "10": {
+    "scene": "5ae021f2805c0854",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan10"
+  },
+  "11": {
+    "scene": "5ae021f2805c0854",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan11"
+  },
+  "12": {
+    "scene": "5ae021f2805c0854",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan12"
+  },
+  "13": {
+    "scene": "5ae021f2805c0854",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan13"
+  },
+  "14": {
+    "scene": "5ae021f2805c0854",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan14"
+  },
+  "15": {
+    "scene": "5cd49557ea450c89",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan15"
+  },
+  "16": {
+    "scene": "5cd49557ea450c89",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan16"
+  },
+  "17": {
+    "scene": "5cd49557ea450c89",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan17"
+  },
+  "18": {
+    "scene": "5cd49557ea450c89",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan18"
+  },
+  "19": {
+    "scene": "5cd49557ea450c89",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan19"
+  },
+  "20": {
+    "scene": "7dd427509fe84baa",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan20"
+  },
+  "21": {
+    "scene": "7dd427509fe84baa",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan21"
+  },
+  "22": {
+    "scene": "7dd427509fe84baa",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan22"
+  },
+  "23": {
+    "scene": "7dd427509fe84baa",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan23"
+  },
+  "24": {
+    "scene": "7dd427509fe84baa",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan24"
+  },
+  "25": {
+    "scene": "444ea0dc5e85ee0b",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan25"
+  },
+  "26": {
+    "scene": "444ea0dc5e85ee0b",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan26"
+  },
+  "27": {
+    "scene": "444ea0dc5e85ee0b",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan27"
+  },
+  "28": {
+    "scene": "444ea0dc5e85ee0b",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan28"
+  },
+  "29": {
+    "scene": "444ea0dc5e85ee0b",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan29"
+  },
+  "30": {
+    "scene": "609cc60fd416e187",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan30"
+  },
+  "31": {
+    "scene": "609cc60fd416e187",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan31"
+  },
+  "32": {
+    "scene": "609cc60fd416e187",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan32"
+  },
+  "33": {
+    "scene": "609cc60fd416e187",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan33"
+  },
+  "34": {
+    "scene": "609cc60fd416e187",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan34"
+  },
+  "35": {
+    "scene": "868765907f66fd85",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan35"
+  },
+  "36": {
+    "scene": "868765907f66fd85",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan36"
+  },
+  "37": {
+    "scene": "868765907f66fd85",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan37"
+  },
+  "38": {
+    "scene": "868765907f66fd85",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan38"
+  },
+  "39": {
+    "scene": "868765907f66fd85",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan39"
+  },
+  "40": {
+    "scene": "e98bae39fad2244e",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan40"
+  },
+  "41": {
+    "scene": "e98bae39fad2244e",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan41"
+  },
+  "42": {
+    "scene": "e98bae39fad2244e",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan42"
+  },
+  "43": {
+    "scene": "e98bae39fad2244e",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan43"
+  },
+  "44": {
+    "scene": "e98bae39fad2244e",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan44"
+  },
+  "45": {
+    "scene": "f7e930d8a9ff2091",
+    "config": "3",
+    "dir": "/home/idr/data/h3ds/scan45"
+  },
+  "46": {
+    "scene": "f7e930d8a9ff2091",
+    "config": "4",
+    "dir": "/home/idr/data/h3ds/scan46"
+  },
+  "47": {
+    "scene": "f7e930d8a9ff2091",
+    "config": "8",
+    "dir": "/home/idr/data/h3ds/scan47"
+  },
+  "48": {
+    "scene": "f7e930d8a9ff2091",
+    "config": "16",
+    "dir": "/home/idr/data/h3ds/scan48"
+  },
+  "49": {
+    "scene": "f7e930d8a9ff2091",
+    "config": "32",
+    "dir": "/home/idr/data/h3ds/scan49"
+  }
+}
