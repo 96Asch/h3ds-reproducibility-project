@@ -19,13 +19,21 @@ After creating the VM, you can connect it to your local VSCode:
 You can now edit files on the VM locally using VSCode!
 
 ### Install dependencies
-To install conda and basic libraries, run the following lines:
+
+To install conda and other necessary libraries, run the following commands:
 ```
  > sudo apt-get install -y gcc g++ libsm6 libxrender1 libfontconfig1 libice6 libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
  > sudo apt-get install linux-headers-$(uname -r)
  > sudo wget https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh
  > bash Anaconda3-2021.11-Linux-x86_64.sh
  > cd /home
+```
+
+Then install the environment using `conda`:
+
+```
+conda env create -f environment.yml
+conda activate idr
 ```
 
 ### Dataset Generation
@@ -46,6 +54,11 @@ The IGR model can be trained using the files in the [IGR repository](https://git
 - `igr/code/shapespace/train.py` should be modified to use the correct `.conf` file and training settings like the amount of epochs.
 
 ### IDR
+
+To run IDR, first activate the 
+
+### H3D-Net
+
 
 
 
